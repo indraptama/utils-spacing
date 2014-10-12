@@ -1,0 +1,10 @@
+{
+  "name": "utils-spacing",
+  "repo": "indraptama/utils-spacing",
+  "version": "0.0.1",
+  "styles": [
+    "lib/utils-spacing.css"
+  ],
+  "author": "Indra Pratama Putra",
+  "license": "MIT"
+}
