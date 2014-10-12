@@ -1,0 +1,128 @@
+/* ==========================================================================
+   #Spacing Unit
+   ========================================================================== */
+
+:root {
+  --base-spacing-unit: 1.5rem;
+}
+
+
+/**
+ * extra spacing on all side
+ */
+
+.u-marAll {
+  margin: var(--base-spacing-unit)!important;
+}
+
+.u-marAll--half {
+  margin: calc(var(--base-spacing-unit)/2)!important;
+}
+
+.u-marAll--third {
+  margin: calc(var(--base-spacing-unit)/3)!important;
+}
+
+/**
+ * extra spacing on top and bottom side
+ */
+
+.u-marTall {
+  margin-top: var(--base-spacing-unit)!important;
+  margin-bottom: var(--base-spacing-unit)!important;
+}
+
+.u-marTall--half {
+  margin-top: calc(var(--base-spacing-unit)/2)!important;
+  margin-bottom: calc(var(--base-spacing-unit)/2)!important;
+}
+
+.u-marTall--third {
+  margin-top: calc(var(--base-spacing-unit)/3)!important;
+  margin-bottom: calc(var(--base-spacing-unit)/3)!important;
+}
+
+
+/**
+ * extra spacing on both side
+ */
+
+.u-marSide {
+  margin-right: var(--base-spacing-unit)!important;
+  margin-left: var(--base-spacing-unit)!important;
+ }
+
+.u-marSide--half {
+  margin-right: calc(var(--base-spacing-unit)/2)!important;
+  margin-left: calc(var(--base-spacing-unit)/2)!important;
+}
+
+.u-marSide--third {
+  margin-top: calc(var(--base-spacing-unit)/3)!important;
+  margin-bottom: calc(var(--base-spacing-unit)/3)!important;
+}
+
+
+/**
+ * extra on top
+ */
+
+.u-marTop {
+  margin-top: var(--base-spacing-unit)!important;
+ }
+
+.u-marTop--half {
+  margin-top: calc(var(--base-spacing-unit)/2)!important;
+}
+
+.u-marTop--third {
+  margin-top: calc(var(--base-spacing-unit)/3)!important;
+}
+
+/**
+ * extra spacing on bottom 
+ */
+
+.u-marBottom {
+  margin-bottom: var(--base-spacing-unit)!important;
+}
+
+.u-marBottom--half {
+  margin-bottom: calc(var(--base-spacing-unit)/2)!important;
+}
+
+.u-marBottom--third {
+  margin-bottom: calc(var(--base-spacing-unit)/3)!important;
+}
+
+/**
+ * extra spacing on left
+ */
+
+.u-marLeft {
+margin-left: var(--base-spacing-unit)!important;
+}
+
+.u-marLeft--half {
+  margin-left: calc(var(--base-spacing-unit)/2)!important;
+}
+
+.u-marLeft--third {
+  margin-left: calc(var(--base-spacing-unit)/3)!important;
+}
+
+/**
+ * extra spacing on right
+ */
+
+ .u-marRight {
+  margin-right: var(--base-spacing-unit)!important;
+ }
+ 
+ .u-marRight--half {
+  margin-right: calc(var(--base-spacing-unit)/2)!important;
+ }
+
+.u-marRight--third {
+  margin-right: calc(var(--base-spacing-unit)/3)!important;
+}
