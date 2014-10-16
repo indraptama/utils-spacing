@@ -1,1 +1,4 @@
-@import "./lib/utils-spacing.css";
+@import "./lib/spacing.css";
+@import "./lib/spacing-sm.css";
+@import "./lib/spacing-md.css";
+@import "./lib/spacing-lg.css";
