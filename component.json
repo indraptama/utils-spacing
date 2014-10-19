@@ -3,7 +3,11 @@
   "repo": "indraptama/utils-spacing",
   "version": "0.0.1",
   "styles": [
-    "lib/utils-spacing.css"
+    "lib/spacing.css",
+    "lib/spacing-sm.css",
+    "lib/spacing-md.css",
+    "lib/spacing-lg.css"
+    
   ],
   "author": "Indra Pratama Putra",
   "license": "MIT"
